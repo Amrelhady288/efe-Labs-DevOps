@@ -1,5 +1,5 @@
-Docker Network Configuration and Service
-Lab Objectives:
+# Docker Network Configuration and Service
+# Lab Objectives:
 Custom Bridge Network Creation
 IP Address Allocation and Management
 Service Discovery and Internal Connectivity
